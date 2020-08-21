@@ -1,7 +1,7 @@
 # Java-book-store-project
 The java based web project for the online book store.
 
-### Group Menbers
+### Group Members
 1. shubham 
 2. Manisha
 3. Mohit
