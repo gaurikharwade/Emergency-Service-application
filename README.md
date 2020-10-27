@@ -1,12 +1,17 @@
-# Java-book-store-project
-The java based web project for the online book store.
+# Emergency Service Application
+The java based android application for the emergency service.
+for more information please read this <a href="https://drive.google.com/file/d/1CqHsc7jw8KQERfGwEyoBnrvLSaDxb1vB/view?usp=sharing" a>project report</a>.
 
 ### Group Members
-- shubham 
-- Manisha
-- Mohit
-- Gomati
+<ol>
+  <li> shubham </li>
+  <li> Manisha </li>
+  <li> Mohit </li>
+  <li> Gomati </li>
+  <li> Gauri </li>
+</ol>
 
-### Website link for Dataset
-(https://www.codewithc.com/online-book-store-project-java/)
+### Folder Info:
+- <b>Study Material</b> : for project study material.
+
 
